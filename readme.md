@@ -5,6 +5,7 @@ This is a basic Django project that includes user authentication using JWT (JSON
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
+#### Frontend is uploaded in master branch 
 
 ### Prerequisites
 
